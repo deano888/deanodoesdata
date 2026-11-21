@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/sports-betting/index.html",
+    "items": [
+      "/sports-betting/gambling-foundations/index.html"
+    ]
+  },
+  {
+    "listing": "/energy/index.html",
+    "items": [
+      "/energy/brief-history-of-energy/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/energy/brief-history-of-energy/index.html",
+      "/sports-betting/gambling-foundations/index.html"
+    ]
+  }
+]
