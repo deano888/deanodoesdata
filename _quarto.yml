@@ -3,15 +3,15 @@ project:
 
 website:
   title: "Deano Does Data"
-  site-url: https://deanodoesdata.com
+  site-url: https://deano888.github.io/deanodoesdata/
   navbar:
     left:
       - text: "Energy"
         href: energy/index.qmd
       - text: "Sports Betting"
         href: sports-betting/index.qmd
-      - text: "Off the Grid"
-        href: off-the-grid/index.qmd
+      - text: "Other Stuff"
+        href: other_stuff/index.qmd
     right:
       - about.qmd
       - icon: github
