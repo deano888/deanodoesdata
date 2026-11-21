@@ -1,39 +1,73 @@
 ---
-title: "Deano Does Data"
-subtitle: "Curious about energy, numbers and the stories hiding in data."
-listing:
-  id: latest
-  contents: ["energy/*/index.qmd", "sports-betting/*/index.qmd"]
-  type: table
-  sort: "date desc"
-  fields: [date, title, categories, read]
-  field-display-names:
-    read: "Read"
-  sort-ui: false
-  filter-ui: false
+pagetitle: "Deano Does Data"
+page-layout: full
+format:
+  html:
+    title-block-style: none
 ---
 
 ```{=html}
-<div class="home-tiles">
-  <a class="tile tile-energy" href="energy/index.html">
-    <span class="tile-num">01</span>
-    <span class="tile-name">Energy</span>
-    <span class="tile-desc">Where our power comes from, and what it costs the planet.</span>
-  </a>
-  <a class="tile tile-sports" href="sports-betting/index.html">
-    <span class="tile-num">02</span>
-    <span class="tile-name">Sports Betting</span>
-    <span class="tile-desc">Odds, probability and the maths behind the prices.</span>
-  </a>
-  <a class="tile tile-grid" href="other_stuff/index.html">
-    <span class="tile-num">03</span>
-    <span class="tile-name">Other Stuff</span>
-    <span class="tile-desc">Artwork, side projects and experiments.</span>
-  </a>
-</div>
+<section class="home">
+  <header class="home-head">
+    <div class="home-title" role="heading" aria-level="1">Deano Does Data</div>
+    <p class="home-sub">Curious about energy, numbers and the stories hiding in data.</p>
+  </header>
+
+  <div class="panels">
+
+    <a class="panel p-energy" href="energy/index.html">
+      <div class="p-sun"></div>
+      <svg class="p-art keeling" viewBox="0 0 400 200" preserveAspectRatio="none" aria-hidden="true">
+        <defs><linearGradient id="kg" x1="0" x2="1"><stop offset="0" stop-color="#FFC93C"/><stop offset=".6" stop-color="#FF3DA8"/><stop offset="1" stop-color="#8B5CFF"/></linearGradient></defs>
+        <path d="M0,170.0 L4,165.8 L8,163.8 L12,164.9 L16,168.5 L20,172.4 L24,174.5 L28,173.2 L32,169.2 L36,164.4 L40,161.0 L44,160.8 L48,163.4 L52,167.2 L56,169.8 L60,169.5 L64,166.0 L68,160.9 L72,156.6 L76,155.0 L80,156.6 L84,160.0 L88,163.1 L92,163.6 L96,160.9 L100,155.9 L104,150.8 L108,148.0 L112,148.4 L116,151.3 L120,154.6 L124,155.9 L128,154.1 L132,149.4 L136,144.0 L140,140.1 L144,139.2 L148,141.3 L152,144.6 L156,146.6 L160,145.7 L164,141.7 L168,136.1 L172,131.2 L176,129.2 L180,130.2 L184,133.2 L188,135.8 L192,135.8 L196,132.6 L200,127.1 L204,121.6 L208,118.4 L212,118.3 L216,120.7 L220,123.6 L224,124.5 L228,122.2 L232,117.1 L236,111.2 L240,106.9 L244,105.6 L248,107.3 L252,110.1 L256,111.8 L260,110.5 L264,106.0 L268,100.0 L272,94.8 L276,92.3 L280,93.0 L284,95.6 L288,97.8 L292,97.4 L296,93.8 L300,88.0 L304,82.1 L308,78.4 L312,78.0 L316,80.1 L320,82.6 L324,83.1 L328,80.4 L332,75.0 L336,68.8 L340,64.1 L344,62.4 L348,63.8 L352,66.3 L356,67.5 L360,65.9 L364,61.1 L368,54.7 L372,49.2 L376,46.4 L380,46.7 L384,49.0 L388,50.8 L392,50.1 L396,46.2 L400,40.0" fill="none" stroke="url(#kg)" stroke-width="3.5" stroke-linecap="round"/>
+      </svg>
+      <span class="p-num">01</span>
+      <div class="p-body">
+        <span class="p-chip">CO₂ in the air: 427 ppm and rising</span>
+        <h2 class="p-name">Energy</h2>
+        <p class="p-desc">Where our power comes from, and what it costs the planet.</p>
+        <span class="p-go">Explore →</span>
+      </div>
+    </a>
+
+    <a class="panel p-sports" href="sports-betting/index.html">
+      <svg class="p-art pitch" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+        <rect x="20" y="20" width="360" height="260" rx="4"/><line x1="200" y1="20" x2="200" y2="280"/>
+        <circle cx="200" cy="150" r="46"/><rect x="20" y="95" width="50" height="110"/><rect x="330" y="95" width="50" height="110"/>
+      </svg>
+      <svg class="p-art goals" viewBox="0 0 400 220" aria-hidden="true"><rect x="30" y="149" width="34" height="41" rx="6"/><rect x="80" y="79" width="34" height="111" rx="6"/><rect x="130" y="40" width="34" height="150" rx="6"/><rect x="180" y="55" width="34" height="135" rx="6"/><rect x="230" y="99" width="34" height="91" rx="6"/><rect x="280" y="141" width="34" height="49" rx="6"/><rect x="330" y="168" width="34" height="22" rx="6"/><g class="g-lab"><text x="47" y="210">0</text><text x="97" y="210">1</text><text x="147" y="210">2</text><text x="197" y="210">3</text><text x="247" y="210">4</text><text x="297" y="210">5</text><text x="347" y="210">6</text></g></svg>
+      <span class="p-num">02</span>
+      <div class="p-body">
+        <span class="p-chip">How many goals in a game? 0 · 1 · 2 · 3…</span>
+        <h2 class="p-name">Sports Betting</h2>
+        <p class="p-desc">Odds, probability and the maths behind the prices.</p>
+        <span class="p-go">Explore →</span>
+      </div>
+    </a>
+
+    <a class="panel p-other" href="other_stuff/index.html">
+      <svg class="p-art waves" viewBox="0 0 400 220" preserveAspectRatio="none" aria-hidden="true">
+        <g class="w w1"><path d="M0,120 L0,120.0 L10,123.1 L20,125.9 L30,128.1 L40,129.5 L50,130.0 L60,129.5 L70,128.1 L80,125.9 L90,123.1 L100,120.0 L110,116.9 L120,114.1 L130,111.9 L140,110.5 L150,110.0 L160,110.5 L170,111.9 L180,114.1 L190,116.9 L200,120.0 L210,123.1 L220,125.9 L230,128.1 L240,129.5 L250,130.0 L260,129.5 L270,128.1 L280,125.9 L290,123.1 L300,120.0 L310,116.9 L320,114.1 L330,111.9 L340,110.5 L350,110.0 L360,110.5 L370,111.9 L380,114.1 L390,116.9 L400,120.0 L410,123.1 L420,125.9 L430,128.1 L440,129.5 L450,130.0 L460,129.5 L470,128.1 L480,125.9 L490,123.1 L500,120.0 L510,116.9 L520,114.1 L530,111.9 L540,110.5 L550,110.0 L560,110.5 L570,111.9 L580,114.1 L590,116.9 L600,120.0 L610,123.1 L620,125.9 L630,128.1 L640,129.5 L650,130.0 L660,129.5 L670,128.1 L680,125.9 L690,123.1 L700,120.0 L710,116.9 L720,114.1 L730,111.9 L740,110.5 L750,110.0 L760,110.5 L770,111.9 L780,114.1 L790,116.9 L800,120.0 L800,220 L0,220 Z"/></g><g class="w w2"><path d="M0,145 L0,151.7 L10,152.9 L20,152.8 L30,151.6 L40,149.3 L50,146.4 L60,143.3 L70,140.4 L80,138.3 L90,137.1 L100,137.2 L110,138.4 L120,140.7 L130,143.6 L140,146.7 L150,149.6 L160,151.7 L170,152.9 L180,152.8 L190,151.6 L200,149.3 L210,146.4 L220,143.3 L230,140.4 L240,138.3 L250,137.1 L260,137.2 L270,138.4 L280,140.7 L290,143.6 L300,146.7 L310,149.6 L320,151.7 L330,152.9 L340,152.8 L350,151.6 L360,149.3 L370,146.4 L380,143.3 L390,140.4 L400,138.3 L410,137.1 L420,137.2 L430,138.4 L440,140.7 L450,143.6 L460,146.7 L470,149.6 L480,151.7 L490,152.9 L500,152.8 L510,151.6 L520,149.3 L530,146.4 L540,143.3 L550,140.4 L560,138.3 L570,137.1 L580,137.2 L590,138.4 L600,140.7 L610,143.6 L620,146.7 L630,149.6 L640,151.7 L650,152.9 L660,152.8 L670,151.6 L680,149.3 L690,146.4 L700,143.3 L710,140.4 L720,138.3 L730,137.1 L740,137.2 L750,138.4 L760,140.7 L770,143.6 L780,146.7 L790,149.6 L800,151.7 L800,220 L0,220 Z"/></g><g class="w w3"><path d="M0,170 L0,175.5 L10,174.4 L20,172.9 L30,171.2 L40,169.3 L50,167.5 L60,165.9 L70,164.8 L80,164.1 L90,164.0 L100,164.5 L110,165.6 L120,167.1 L130,168.8 L140,170.7 L150,172.5 L160,174.1 L170,175.2 L180,175.9 L190,176.0 L200,175.5 L210,174.4 L220,172.9 L230,171.2 L240,169.3 L250,167.5 L260,165.9 L270,164.8 L280,164.1 L290,164.0 L300,164.5 L310,165.6 L320,167.1 L330,168.8 L340,170.7 L350,172.5 L360,174.1 L370,175.2 L380,175.9 L390,176.0 L400,175.5 L410,174.4 L420,172.9 L430,171.2 L440,169.3 L450,167.5 L460,165.9 L470,164.8 L480,164.1 L490,164.0 L500,164.5 L510,165.6 L520,167.1 L530,168.8 L540,170.7 L550,172.5 L560,174.1 L570,175.2 L580,175.9 L590,176.0 L600,175.5 L610,174.4 L620,172.9 L630,171.2 L640,169.3 L650,167.5 L660,165.9 L670,164.8 L680,164.1 L690,164.0 L700,164.5 L710,165.6 L720,167.1 L730,168.8 L740,170.7 L750,172.5 L760,174.1 L770,175.2 L780,175.9 L790,176.0 L800,175.5 L800,220 L0,220 Z"/></g>
+      </svg>
+      <span class="p-num">03</span>
+      <div class="p-body">
+        <span class="p-chip">Coming soon: a poster about Pacific sea levels</span>
+        <h2 class="p-name">Other Stuff</h2>
+        <p class="p-desc">Artwork, side projects and experiments.</p>
+        <span class="p-go">Explore →</span>
+      </div>
+    </a>
+
+  </div>
+
+  <div class="ticker" aria-label="Latest articles">
+    <span class="t-label">NEW</span>
+    <div class="t-track"><div class="t-move">
+      <a href="energy/brief-history-of-energy/index.html">⚡ A Brief History of Energy · 8 min</a>
+      <a href="sports-betting/gambling-foundations/index.html">🎲 Gambling Foundations · 4 min</a>
+      <a href="energy/brief-history-of-energy/index.html">⚡ A Brief History of Energy · 8 min</a>
+      <a href="sports-betting/gambling-foundations/index.html">🎲 Gambling Foundations · 4 min</a>
+    </div></div>
+  </div>
+</section>
 ```
-
-## Latest
-
-::: {#latest}
-:::
