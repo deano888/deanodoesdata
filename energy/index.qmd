@@ -1,0 +1,12 @@
+---
+title: "Energy"
+subtitle: "Where our energy comes from, where it goes, and what it costs the planet. Learning out loud, one dataset at a time."
+body-classes: theme-plasma
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  sort: "date desc"
+  fields: [title, description, read, date]
+  field-display-names:
+    read: "Read"
+---

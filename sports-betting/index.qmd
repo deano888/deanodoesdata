@@ -1,0 +1,11 @@
+---
+title: "Sports Betting"
+subtitle: "Odds, probability and the maths behind the prices, explained simply."
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  sort: "date desc"
+  fields: [title, description, read, date]
+  field-display-names:
+    read: "Read"
+---

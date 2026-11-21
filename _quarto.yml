@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Deano Does Data"
+  site-url: https://deanodoesdata.com
+  navbar:
+    left:
+      - text: "Energy"
+        href: energy/index.qmd
+      - text: "Sports Betting"
+        href: sports-betting/index.qmd
+      - text: "Off the Grid"
+        href: off-the-grid/index.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/deano888
+      - icon: linkedin
+        href: https://www.linkedin.com/in/deanoshaddick/
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    body-classes: theme-spectrum   # options: theme-matchday | theme-spectrum | theme-pitch
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

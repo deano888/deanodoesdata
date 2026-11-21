@@ -1,0 +1,99 @@
+---
+title: "Gambling Foundations"
+subtitle: "How the gambling industry really makes its money, explained with a loaf of bread and a coin toss."
+author: "Dean Shaddick"
+date: 2026-11-11
+categories: ["Sports Betting", "Odds"]
+description: "Gambling foundations in four minutes: odds, probability and the margin the house builds into every price."
+# image: thumbnail.png   # add a 1200x630 image here for listings and social cards
+# custom fields for listings and the meta strip
+read: "4 min"
+level: "All"
+---
+
+::: {.meta-strip}
+[⏱ 4 min read]{} [Level: All]{}
+:::
+
+
+::: {.band .sand}
+[01]{.num} [Kick-off]{.kicker}
+
+## A loaf of bread
+
+At its heart, the gambling industry is just like most others: it sells something for a different price than it's actually worth.
+
+Think about a loaf of bread in the shop. You might think *"I could make that cheaper myself"*, and you'd probably be right. The shop's price includes flour, ovens, staff, rent… and a bit of profit on top.
+
+Bets work exactly the same way. The bookmaker, sportsbook or casino (let's just call it **the house**) has costs to cover and expects a profit. It gets both by **paying out winning bets at a little less than their true price**.
+:::
+
+
+::: {.pullquote}
+Bookmakers think in probabilities.<br>Players think in odds.
+:::
+
+::: {.band .sea}
+[02]{.num} [Half-time]{.kicker}
+
+## Two languages, one idea
+
+To set a fair price, the house first uses **probability theory** to work out how likely something is to happen. Then it adjusts that number to include its profit margin.
+
+Players, meanwhile, don't care much about probability. They want to know **how much they could win**. That's what odds tell them.
+
+The lovely part? The two are connected by one of the simplest formulas in all of maths:
+
+::: {.formula}
+decimal odds = **1 ÷ probability**
+:::
+
+::: {.odds-table}
+| Chance of happening | Probability | Fair decimal odds | You get back from €10 |
+|:--:|:--:|:--:|:--:|
+| Coin lands heads | 50% | 2.00 | €20 |
+| One suit from a deck | 25% | 4.00 | €40 |
+| Rolling a six | 16.7% | 6.00 | €60 |
+:::
+:::
+
+::: {.band .coral}
+[03]{.num} [Full-time]{.kicker}
+
+## Where the profit hides
+
+Take a fair coin. Heads and tails are 50/50, so the **fair odds** are 2.00 on each side. But the house doesn't offer 2.00. It offers **1.90**.
+
+::: {.odds-table .coin-table}
+| Selection | Fair / true chance | Fair / true odds | House odds offered |
+|:--|:--:|:--:|:--:|
+| Heads | 50% | 2.00 | 1.90 |
+| Tails | 50% | 2.00 | 1.90 |
+:::
+
+Turn the house's odds back into probabilities (1 ÷ 1.90) and each side becomes **52.6%**, so the book adds up to **105.3%**. A coin can't have a 105.3% chance of landing on something: that extra **5.3%** is the house's margin, known in the trade as the **overround**.
+
+Flip it round and you get the **return to player (RTP)**: 1 ÷ 1.053 ≈ **95%**. For every €100 bet, about **€95 comes back** to players and **€5 stays with the house**.
+
+On any single flip, anything can happen. But over many flips and many bets, the results drift towards the maths, and **the maths is on the house's side**.
+
+**And that, in a nutshell, is how the gambling industry works:** offer slightly lower odds than the true chance deserves, and let the long run do the rest.
+:::
+
+::: {.course-card}
+### Want to go further?
+
+**Gambling Foundations and Beyond**, a free introductory course on Udemy by odds maestro **Andrea Magnani** and me. Educational, easy to follow and (we hope) fun.
+
+::: {.chips}
+[Odds]{} [Probability]{} [Return to Player]{} [A working framework]{} [What moves RTP]{}
+:::
+
+[About 1½ hours · bite-sized lectures · rated 4.8★ by students at the time of writing]{.small}
+
+[Start the free course →](https://www.udemy.com/course/gambling-foundations-and-beyond/){.btn-course}
+:::
+
+::: {.safer-gambling}
+**Please gamble responsibly.** [BeGambleAware](https://www.begambleaware.org) (UK) · [Jugar Bien](https://www.jugarbien.es) (Spain)
+:::

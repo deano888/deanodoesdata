@@ -1,0 +1,184 @@
+---
+title: "A Brief History of Energy"
+subtitle: "From deep-sea vents to the solar panel on your roof: four billion years of borrowing power from the sun, and why the carbon matters."
+author: "Dean Shaddick"
+date: 2026-11-19
+categories: ["Energy", "History"]
+description: "A light, eight-minute tour of energy on Earth: vents, sunlight, fire, coal, war, oil, atoms, carbon and sunshine again."
+body-classes: theme-plasma
+# image: thumbnail.png   # add a 1200x630 image here for listings and social cards
+read: "8 min"
+level: "All"
+---
+
+::: {.meta-strip}
+[⏱ 8 min read]{} [Level: All]{}
+:::
+
+```{=html}
+<div class="moment">
+  <div class="moment-time">12:33</div>
+  <div class="moment-text">
+    <div class="moment-date">Monday 28 April 2025 · Spain &amp; Portugal</div>
+    <div class="moment-stat"><b>15 GW</b> of power, around <b>60%</b> of Spain's demand, vanished from the grid in about <b>five seconds</b>.</div>
+  </div>
+</div>
+```
+
+It was a normal Monday lunchtime. Then, at 12:33, the lights went out across the whole Iberian Peninsula. Trains stopped between stations, traffic lights went blank and phones slowly ran out of battery. For half a day, millions of us remembered something we usually forget:
+
+**almost everything we do runs on energy that comes from somewhere else.**
+
+So where does it come from? To answer that properly, we need to go back a long way. Much further than the first light bulb, or even the first campfire. Grab a coffee (itself a little parcel of stored sunshine) and let's start at the bottom of the ocean.
+
+```{=html}
+<div class="timeline">
+  <div class="tl-title">The story at a glance <span class="spark">✦</span></div>
+  <div class="tl-row"><span class="tl-when">~4bn yrs ago</span><span class="tl-pill">🌋 Life sparks into being, maybe at deep-sea vents</span></div>
+  <div class="tl-row"><span class="tl-when">~2.4bn yrs ago</span><span class="tl-pill">🦠 Sun-powered microbes fill the air with oxygen</span></div>
+  <div class="tl-row"><span class="tl-when">~300M yrs ago</span><span class="tl-pill">🌿 Swamp forests get buried and become coal</span></div>
+  <div class="tl-row"><span class="tl-when">~1M yrs ago</span><span class="tl-pill">🔥 Our ancestors control fire</span></div>
+  <div class="tl-row"><span class="tl-when">9th century</span><span class="tl-pill">💥 Gunpowder in China, windmills in Persia</span></div>
+  <div class="tl-row"><span class="tl-when">1712</span><span class="tl-pill">⚙️ Steam engine pumps a coal mine</span></div>
+  <div class="tl-row"><span class="tl-when">1912</span><span class="tl-pill">⚓ The Royal Navy switches to oil</span></div>
+  <div class="tl-row"><span class="tl-when">1952</span><span class="tl-pill">🌫️ London's Great Smog</span></div>
+  <div class="tl-row"><span class="tl-when">1958</span><span class="tl-pill">📈 We start measuring CO₂</span></div>
+  <div class="tl-row"><span class="tl-when">2025</span><span class="tl-pill">🌍 Renewables overtake coal for electricity</span></div>
+</div>
+```
+
+::: {.band .e1}
+[01]{.num} [Deep time]{.kicker}
+
+## The first spark was in the dark
+
+The story of energy on Earth may begin somewhere the sun never reaches. Around **four billion years ago**, at the bottom of the ocean, **hydrothermal vents** (underwater geysers) were pumping out scalding water full of chemicals. Many scientists think this is where life got going, with tiny microbes making their food from those chemicals instead of from light. That trick is called **chemosynthesis**, and creatures still do it at vents today.
+
+Up on the surface, the sun was already shining, but nothing could use it yet. That took time. Somewhere around **3 billion years ago**, tiny ocean microbes called **cyanobacteria** worked out **photosynthesis**: using sunlight to turn water and carbon dioxide into food, and releasing oxygen as waste.
+
+It was like an explosion of energy. Around **2.4 billion years ago**, their oxygen began to fill the air, completely rewriting the planet's chemistry, climate and biology. Fun fact: **every breath you take** is thanks to those tiny microbes, the planet's first solar panels.
+
+Plants carried the trick onto land much later. And from then on, for hundreds of millions of years, almost every animal on Earth, from dinosaurs to early mammals, was powered by **sunlight stored in plants**, either by eating them or by eating something that did.
+:::
+
+::: {.band .e2}
+[02]{.num} [Fire]{.kicker}
+
+## Fire, mills and a happy accident
+
+Then, around **a million years ago**, our ancestors learned to control **fire**. (The oldest solid evidence is ash and burnt bone in Wonderwerk Cave, South Africa.) It was a new way to release energy, but the fuel was the same as ever: wood and plants grown by the sun.
+
+Fire meant warmth, light, safety from predators and, crucially, **cooking**. Cooked food is softer and easier to digest, so we get more energy out of every bite. Some scientists, like Harvard's Richard Wrangham, think this helped **shrink our jaws and teeth and grow our brains**. In a way, cooking helped make us human.
+
+As we got more inventive, we learned to catch moving **water and wind**. Waterwheels ground grain, and by the **9th century** windmills were turning in Persia.
+
+Around the same time, Chinese alchemists were searching for a potion for **eternal life**. They mixed saltpetre, sulphur and **charcoal**, and got the opposite: **gunpowder**, which they called *"fire medicine"*. It would go on to ignite an arms race around the world.
+
+Notice something? **All of this still ran on today's sunshine.** It was renewable but limited: you could only burn as much wood as your forests could grow.
+:::
+
+::: {.band .e3}
+[03]{.num} [Coal]{.kicker}
+
+## Buried sunshine and the age of steam
+
+The way out of that limit was **coal**: a black rock that burns hotter and longer than wood. People had burned it for centuries. By the 11th century, China's iron industry had already used up so many trees that it switched from charcoal to coal. But it was in **Britain in the 1700s** that things really took off.
+
+Britain had plenty of coal but a big problem: the deeper the mines went, the more they flooded. In **1712**, Thomas Newcomen installed a steam engine near Dudley to pump the water out. Think about that: **a machine burning coal to help dig out more coal.**
+
+Then a Scottish instrument maker called **James Watt** added a separate condenser (patented in **1769**) that made steam engines far more efficient. Suddenly engines could leave the mines. Canals, railways and factories sprang up across the country to move and burn the huge amounts of coal needed for machines, iron and new weapons.
+
+Coal went from about **2%** of the world's energy in 1800 to roughly **half** by 1900. And every time you read "W" on a kettle, that's the **watt**, named after Watt.
+:::
+
+::: {.band .e4}
+[04]{.num} [Smoke & war]{.kicker}
+
+## Smoke, steel and the thirst for oil
+
+Coal was powering industry worldwide, but it was far from clean. People noticed the pollution almost immediately, and as industry grew it became a deadly crisis: darkened skies, blackened buildings, damaged plants and wildlife, and sick lungs.
+
+The worst moment came in **December 1952**, when a cold, still fog trapped coal smoke over London for five days. People couldn't see their own feet. The **Great Smog** killed around **4,000** people at the time, and later estimates go as high as **12,000**. It led to the **Clean Air Act of 1956**, and coal-burning power stations were gradually moved out of big cities.
+
+But we couldn't curb our demand for energy. Quite the opposite: **two world wars** pushed it higher than ever.
+
+Militaries needed more concentrated energy to move massive machines. Oil packs more punch than coal and is easier to load, so in **1912**, under Winston Churchill, Britain's navy began switching its battleships from coal to oil. By **WW1**, oil was fuelling tanks, ships and the first warplanes.
+
+**WW2** pushed fuels to their limits. Fighter planes ran on high-octane aviation fuel, and explosives were made from nitrogen compounds. Germany's V-2 rocket burned **alcohol and liquid oxygen**, and that alcohol was fermented from crops (reportedly lots of **potatoes**). So that one ran on *today's* sunshine! Nearly everything else ran on **ancient sunlight**, trapped in plants millions of years ago.
+:::
+
+::: {.pullquote}
+We never really swapped one energy source for another.<br>We just kept adding.
+:::
+
+::: {.band .e5}
+[05]{.num} [Atoms & carbon]{.kicker}
+
+## Wires, atoms and a curve that keeps rising
+
+By now, humans were getting very creative with energy. Oil moved our cars, ships and planes, and became the **plastics** in almost everything we own. Since Edison's first power station in **1882**, electricity had been flowing down wires into homes. And in **1942** we learned to split the atom: by **1954**, the first **nuclear** power plant was feeding a grid, with no fossil fuel needed.
+
+We also got very good at **measuring** things. In **1958**, a scientist called Charles Keeling started recording the CO₂ in the air on top of Mauna Loa, a volcano in Hawaii. His line, the **Keeling Curve**, has gone up every year since: from about **316 parts per million** in 1959 to about **427** in 2025. And how about before anyone was measuring? Air bubbles trapped in ancient ice suggest it was roughly **280** before the Industrial Revolution.
+
+Scientists realised that the extra CO₂ was trapping heat, raising temperatures and melting ice, with serious effects for every habitat on the planet. And they realised **we were causing it**, by burning coal, oil, gas and wood.
+
+Here's the twist. Around **300 million years ago**, in a period called the **Carboniferous** (literally "coal-bearing"), vast swamp forests soaked up CO₂, died, and got buried before they could rot. Over millions of years, the heat and pressure turned them into coal.
+
+That's the double-edged sword: **coal burns because it's full of carbon**. Burning it gives us energy and puts that carbon straight back into the air.
+:::
+
+```{=html}
+<div class="carbon-loop">
+  <div class="cl-title">The carbon loop, in five steps</div>
+  <div class="cl-sub">Storing the carbon took millions of years. Releasing it is taking a couple of centuries.</div>
+  <div class="cl-steps">
+    <div class="cl-step"><span class="ico">☀️</span><b>Sunlight</b><small>powers the plants</small></div>
+    <span class="cl-arrow">→</span>
+    <div class="cl-step"><span class="ico">🌿</span><b>Plants</b><small>pull CO₂ out of the air</small></div>
+    <span class="cl-arrow">→</span>
+    <div class="cl-step slow"><span class="ico">⏳</span><b>Buried</b><small>squashed for ~300 million years</small></div>
+    <span class="cl-arrow">→</span>
+    <div class="cl-step"><span class="ico">⛏️</span><b>Coal &amp; oil</b><small>ancient sunshine you can dig up</small></div>
+    <span class="cl-arrow">→</span>
+    <div class="cl-step fast"><span class="ico">🔥</span><b>We burn it</b><small>energy out, CO₂ back in</small></div>
+  </div>
+  <div class="cl-return">↺ &nbsp;The CO₂ goes back into the air, <b>millions of years' worth in about 200 years</b></div>
+</div>
+```
+
+::: {.band .e6}
+[06]{.num} [Today]{.kicker}
+
+## Full circle
+
+So where does our energy come from today? Still mostly from **buried sunshine**: coal, oil and gas. Only around one-sixth of the world's energy comes from low-carbon sources like nuclear, hydro, wind and solar, although that share is growing fast, especially in electricity.
+
+But zoom out and there's a beautiful pattern. For almost all of history we ran on **today's sunshine**: food, wood, wind and water. For two centuries we borrowed **ancient sunshine** from underground. It gave us the modern world, along with a carbon bill. Now we're learning to run on today's sunshine again, this time with silicon and steel instead of firewood.
+
+```{=html}
+<div class="sun-ages" aria-label="Three ages of sunshine">
+  <div class="sa-1"><b>Today's sunshine</b><small>food, wood, wind, water</small></div>
+  <div class="sa-2"><b>Ancient sunshine</b><small>coal, oil, gas</small></div>
+  <div class="sa-3"><b>Today's again</b><small>solar, wind, hydro</small></div>
+</div>
+<div class="sun-ages-caption">Not to scale. If it were, the first block would be about a million years long and the second barely 200.</div>
+```
+
+And it's getting cheaper fast. Between 1976 and 2019, the price of a solar panel fell by more than **99%**:
+
+```{=html}
+<div class="pricetag">
+  <div><span class="pt-year">1976</span><span class="pt-price">$106</span><span class="pt-unit">per watt</span></div>
+  <div class="pt-arrow">→</div>
+  <div><span class="pt-year">2019</span><span class="pt-price glow">$0.38</span><span class="pt-unit">per watt</span></div>
+</div>
+```
+
+In the first half of **2025**, for the first time ever, renewables generated **more of the world's electricity than coal**. The same sun that powered those first microbes is powering us again. This time, the carbon stays in the ground.
+
+Next time you flick a switch, charge your phone or put the kettle on, ask yourself: **where did this energy come from, and what impact does it cause?!**
+:::
+
+::: {.sources-note}
+**Sources:** ENTSO-E (28 April 2025 blackout); Frontiers in Microbiology 2022 and Knowable Magazine (hydrothermal vents); studies on cyanobacteria and the Great Oxidation Event; UC Museum of Paleontology and National Geographic (Carboniferous); Berna et al., *PNAS* 2012 (Wonderwerk Cave); Richard Wrangham, *Catching Fire* (2009); Asia for Educators, Columbia University (Song dynasty coal and iron); Institution of Mechanical Engineers (Newcomen); Science Museum (Watt); Our World in Data (energy mix, solar prices); UK Met Office and London Museum (Great Smog); Royal Navy oil conversion (1911–14); US Space & Rocket Center (V-2 fuel); Scripps Institution of Oceanography and NOAA (Keeling Curve); World Nuclear Association; Ember (Global Electricity Mid-Year Insights 2025); Jean-Baptiste Fressoz, *More and More and More* (2024).
+:::

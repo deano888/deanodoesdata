@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Hi, I'm Dean. I'm a data analyst, and this is my notebook in public.
+
+I use this site to learn new skills, organise my projects and have some fun with data: energy and the environment, the maths behind sports odds, and the occasional creative side project.
+
+Everything here is written to be simple, curious and (hopefully) a little bit fun.

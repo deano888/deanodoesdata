@@ -1,0 +1,39 @@
+---
+title: "Deano Does Data"
+subtitle: "Curious about energy, numbers and the stories hiding in data."
+listing:
+  id: latest
+  contents: ["energy/*/index.qmd", "sports-betting/*/index.qmd"]
+  type: table
+  sort: "date desc"
+  fields: [date, title, categories, read]
+  field-display-names:
+    read: "Read"
+  sort-ui: false
+  filter-ui: false
+---
+
+```{=html}
+<div class="home-tiles">
+  <a class="tile tile-energy" href="energy/index.html">
+    <span class="tile-num">01</span>
+    <span class="tile-name">Energy</span>
+    <span class="tile-desc">Where our power comes from, and what it costs the planet.</span>
+  </a>
+  <a class="tile tile-sports" href="sports-betting/index.html">
+    <span class="tile-num">02</span>
+    <span class="tile-name">Sports Betting</span>
+    <span class="tile-desc">Odds, probability and the maths behind the prices.</span>
+  </a>
+  <a class="tile tile-grid" href="off-the-grid/index.html">
+    <span class="tile-num">03</span>
+    <span class="tile-name">Off the Grid</span>
+    <span class="tile-desc">Artwork, side projects and experiments.</span>
+  </a>
+</div>
+```
+
+## Latest
+
+::: {#latest}
+:::
