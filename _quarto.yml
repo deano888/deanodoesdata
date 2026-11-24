@@ -1,9 +1,10 @@
 project:
   type: website
+  resources:
+    - CNAME
 
 website:
-  title: "Deano Does Data"
-  site-url: https://deano888.github.io/deanodoesdata/
+  site-url: https://deanodoesdata.net/
   navbar:
     left:
       - text: "Energy"
