@@ -427,7 +427,7 @@ body.theme-plasma .pullquote { color: var(--quote); }
 .p-sports .p-num { color: #FFE066; }
 .pitch { inset: 0; height: 100%; }
 .pitch rect, .pitch line, .pitch circle { fill: none; stroke: rgba(255,255,255,.13); stroke-width: 2; }
-.goals { height: 34%; bottom: 11rem; padding: 0 1.2rem; }
+.goals { height: 30%; bottom: 14rem; padding: 0 1.2rem; }
 .goals rect { fill: rgba(255,224,102,.85); transform-origin: bottom; transform-box: fill-box; animation: grow 1.2s cubic-bezier(.2,.8,.2,1) backwards; }
 .goals rect:nth-child(2) { animation-delay: 0.08s; }
 .goals rect:nth-child(3) { animation-delay: 0.16s; }

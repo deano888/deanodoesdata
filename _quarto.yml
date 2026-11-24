@@ -4,6 +4,7 @@ project:
     - CNAME
 
 website:
+  title: "Deano Does Data"
   site-url: https://deanodoesdata.net/
   navbar:
     left:
